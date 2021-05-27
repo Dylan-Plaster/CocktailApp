@@ -3,6 +3,8 @@
 
 # Cocktail Search App #
 
+This app's backend is deployed at https://dp-cocktail-search.herokuapp.com/ and frontend is deployed at ## http://acidic-form.surge.sh/ ##
+
 This app allows users to search through a database of cocktails, filter by ingredients they have available, create posts with recipes they enjoy, comment and vote on others' posts. 
 
 This app is created using a Node/Express backend to handle the database and API with a React frontend and will be an evenly-focused full-stack website designed to be viewed on desktop but responsive to other screen sizes as well. 
