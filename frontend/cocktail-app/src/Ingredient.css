@@ -1,0 +1,14 @@
+.Ingredient {
+  margin: 0.8rem;
+  border: 2px solid white;
+  display: inline;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  max-height: 4.5rem;
+}
+
+.Ingredient:hover {
+  box-shadow: 0 6px 8px 0 rgba(255, 255, 255, 0.2),
+    0 8px 20px 0 rgba(255, 255, 255, 0.2);
+}

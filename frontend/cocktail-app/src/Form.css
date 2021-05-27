@@ -1,0 +1,62 @@
+.Form {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="text"] {
+  min-width: 50%;
+  background: transparent;
+  border: 6px double white;
+  padding: 0.8rem 4rem 0.8rem 1rem;
+  color: white;
+  border-radius: 0.2rem;
+  margin-left: 1rem;
+
+  margin-bottom: 1rem;
+}
+input[type="password"] {
+  min-width: 50%;
+  background: transparent;
+  border: 6px double white;
+  padding: 0.8rem 4rem 0.8rem 1rem;
+  color: white;
+  border-radius: 0.2rem;
+  margin-left: 1rem;
+}
+
+.error {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  background-color: rgba(250, 0, 0, 0.3);
+  border-radius: 1rem;
+}
+
+.fieldContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0.5rem 2rem 2rem 2rem;
+  padding: 2rem;
+}
+
+.submitBtn {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.header {
+  margin-top: 2rem;
+  font-size: 3rem;
+}
+
+/* .myinput: -internal-autofill-selected {
+  background: transparent;
+  border: 6px double white;
+  padding: 0.8rem 4rem 0.8rem 4rem;
+  color: white;
+  border-radius: 0.2rem;
+  margin-left: 1rem;
+} */

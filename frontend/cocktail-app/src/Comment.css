@@ -1,0 +1,28 @@
+.Comment {
+  border: 1px solid white;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  min-width: 60%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border-radius: 5px;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.username {
+  border-right: 2px white solid;
+}
+
+.commentLink {
+  font-size: 1.4rem;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+}
+
+.Comment-body {
+  display: flex;
+  font-size: 0.9rem;
+  align-items: center;
+}

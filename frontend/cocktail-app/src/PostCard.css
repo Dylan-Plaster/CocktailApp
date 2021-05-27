@@ -1,0 +1,35 @@
+.PostCard {
+  background-color: transparent !important;
+  border: 3px solid white !important;
+  width: 95%;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+
+.PostCard:hover {
+  box-shadow: 0 8px 10px 0 rgba(255, 255, 255, 0.2),
+    0 10px 22px 0 rgba(255, 255, 255, 0.2);
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.link {
+  color: white;
+  z-index: 99;
+}
+
+.PostCard-title {
+  font-size: 3rem;
+  margin-top: 4rem;
+}
+
+.PostCard-subtitle {
+  padding: 1rem;
+}
+
+.PostCard-body {
+  padding: 1rem;
+  font-size: 1.3rem;
+}

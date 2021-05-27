@@ -1,0 +1,49 @@
+.Homepage-header {
+  width: 90%;
+  height: 400px;
+  vertical-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: #282828; */
+  border: white 10px;
+  border-style: none none double none;
+  /* border-radius: 5px; */
+  margin-top: 0rem;
+  margin-bottom: 3rem;
+}
+
+.background {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)),
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf80098c-96f1-442b-a173-ffdb305b390e/db8da4d-94a99add-45c7-42ea-971a-f48b2460a5ac.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmODAwOThjLTk2ZjEtNDQyYi1hMTczLWZmZGIzMDViMzkwZVwvZGI4ZGE0ZC05NGE5OWFkZC00NWM3LTQyZWEtOTcxYS1mNDhiMjQ2MGE1YWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BlssDcJdMh1Dskmm_wQ3HCEkMzEth9sp_3wrNExXUIk");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Homepage-headerText {
+  font-size: 3rem;
+  font-family: monaco, Consolas, Lucida Console, monospace;
+}
+
+.Homepage-headerBody {
+  /* text-align: justify; */
+  font-size: 1rem;
+  background-color: rgba(0, 0, 0, 0.4);
+  /* text-justify: distribute; */
+}
+
+.middle-border {
+  border-left: solid 1px white;
+}
+
+li {
+  color: white;
+}
+
+.Homepage-headerBody a {
+  color: #663399;
+}
+
+.wrap {
+  width: 90%;
+}
