@@ -1,7 +1,7 @@
 
 
 
-# Cocktail Search App#
+# Cocktail Search App #
 
 This app allows users to search through a database of cocktails, filter by ingredients they have available, create posts with recipes they enjoy, comment and vote on others' posts. 
 
